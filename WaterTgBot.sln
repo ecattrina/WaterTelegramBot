@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterTgBot", "WaterTgBot\WaterTgBot.csproj", "{CCDF88CD-A831-456C-8A70-7BB96B9675BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDF88CD-A831-456C-8A70-7BB96B9675BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDF88CD-A831-456C-8A70-7BB96B9675BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDF88CD-A831-456C-8A70-7BB96B9675BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDF88CD-A831-456C-8A70-7BB96B9675BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7563F3E2-12CE-4BD8-997F-410677C6B54A}
+	EndGlobalSection
+EndGlobal
